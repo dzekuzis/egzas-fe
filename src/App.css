@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+img{
+  width: 50%;
+  height: 50%;
+}
+
+.plotis{
+  width: 135px;
+}
+
+.apacia{
+ background-color:blue;
+}
+.margin{
+  margin-bottom: 50px;
+}
+.marginas{
+  margin-top: 110px;
+}
